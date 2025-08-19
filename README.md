@@ -24,3 +24,6 @@ This entity shows the hours/days off taken by the employee and the number of lea
 The Employee Attendance Fact table records employee attendance details, including date, time in, time out, and hours worked, allowing easy tracking and efficient management of attendance data with a primary key of attendance_id.
 - **Employee Salary Fact:**
 The Employee Salary Fact table provides a comprehensive view of salary transactions, including amount, pay date, frequency, and deductions, enabling accurate monitoring of compensation-related activities and effective payroll management.
+
+# Entity Relationship Diagram
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/4a8f08c8-e083-46fa-bef9-aff4d149e69f" />
